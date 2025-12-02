@@ -7,8 +7,8 @@ This tutorial outlines the lifecycle of the open-source help desk ticketing syst
 
 <h2>Prerequisites</h2>
 
-- [osTicket: Installation](https://github.com/thechrisheller/osTicket-Installation)
-- [osTicket: Post-Installation Configuration](https://github.com/thechrisheller/osTicket-Post-Installation/tree/main)
+- osTicket: Installation
+- osTicket: Post-Installation Configuration
 
 <h2>Environments and Technologies Used</h2>
 
